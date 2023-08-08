@@ -11,7 +11,13 @@ This tool is designed to assist users in generating firewall commands for blocki
 **Setup**
 1. Clone this repository.
 2. Navigate to the project's directory.
-3. Run the script using `python <script-name>.py`.
+3. Run the script using `python bulk_address_import.py`.
+
+**Running the Application**
+- If you wish to directly run the application without any modifications, simply execute the `bulk_address_import.exe` file.
+
+**Customization**
+- For those looking to modify or customize the command generation, the source code is available in the `bulk_address_import.py` file. Feel free to edit it to tailor the commands to your needs.
 
 **How to Use**
 1. Enter the starting number.
@@ -28,12 +34,11 @@ This tool is designed to assist users in generating firewall commands for blocki
 - Simple and intuitive GUI for user interaction.
 
 **Troubleshooting**
-
 If an error popup stating "Please enter a valid starting number" appears, ensure that the starting number entered is a valid integer.
 
 **Contributions**
-
 For any suggestions, bugs, or features, please open an issue or submit a pull request.
+
 
 
 ![image](https://github.com/Shionjee7/-Windows-application-for-Firewall/assets/96959471/dc67624e-0f6b-4a01-825f-821b3544f017)
