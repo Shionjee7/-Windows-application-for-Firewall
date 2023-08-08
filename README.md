@@ -34,3 +34,6 @@ If an error popup stating "Please enter a valid starting number" appears, ensure
 **Contributions**
 
 For any suggestions, bugs, or features, please open an issue or submit a pull request.
+
+
+![image](https://github.com/Shionjee7/-Windows-application-for-Firewall/assets/96959471/dc67624e-0f6b-4a01-825f-821b3544f017)
